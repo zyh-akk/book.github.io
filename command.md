@@ -43,7 +43,7 @@
 <h6 style="margin: 0">gclean - git reset --hard && git clean -dfx</h6>
 <h6 style="margin: 0">gwc - git whatchanged -p --abbrev-commit --pretty=medium</h6>
 <h6 style="margin: 0">gsts - git stash show --text</h6>
-<h6 style="margin: 0">gsta - git stash</h6>
+<h6 style="margin: 0">gsta - git stash </h6>
 <h6 style="margin: 0">gstp - git stash pop</h6>
 <h6 style="margin: 0">gstd - git stash drop</h6>
 <h6 style="margin: 0">ggpull - git pull origin $(current_branch)</h6>
