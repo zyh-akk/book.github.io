@@ -1,5 +1,4 @@
-G
-it Start
+<h1>Git Start</h1>
 git 本地仓库由三棵树组成，一个是工作目录，一个是暂存区（保存改动），一个是HEAD保存最后一次提交的结果。
 
 git基础命令：
@@ -39,3 +38,9 @@ git基础命令：
 14、git reset --hard HEAD // 放弃工作目录下所有修改
 
     git reset HEAD    //  移除缓存区文件，相当于撤销上次的git add
+
+15、git gc       //  项目比较大时，靠压缩历史信息来减小体积
+
+16、 git fsck       //  运行仓库的一致性检查
+
+17、 git submodule
