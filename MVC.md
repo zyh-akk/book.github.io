@@ -5,6 +5,7 @@
 		<li>View指的是视图，是从model获取数据后的表现，是与用户交互的界面</li>
 		<li>Controller指的是控制器，model和view之间不会直接打交道，controller来起到桥梁的作用，决定用哪些model，决定view显示什么数据</li>
 </ol>
+<p><img src="mvc.jpg" alt="丢图啦！！！"></p>
 <strong>Model</strong>
 		<ul>
 			<li>数据、行为、方法是Model的主要内容；</li>
@@ -19,4 +20,10 @@
 			<li>调用Models的读方法，获取数据，直接传递给视图，供显示。当涉及到多个Model时，有关的逻辑应当交给Model来完成。</li>
 			<li>调用Models的类方法，对Models进行写操作。</li>
 			<li>调用视图渲染函数等，形成对用户Reqeust的Response。</li>
+		</ul>
+<strong>View</strong>
+		<ul>
+			<li>view视图层只负责展示数据，以html为主</li>
+			<li>不应该进行太多的条件判断或者复杂的运算过程，可以有简单的循环或者格式化语句</li>
+			<li>从来不调用Model的方法，只读不写</li>
 		</ul>
