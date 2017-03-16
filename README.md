@@ -1,13 +1,12 @@
 <h1># README</h1>
 <deadline>This is a book created by zyh</deadline>
 
-<h3># Git</h3>
+<h3># XiaGao</h3>
 <ol>
-<li>git status</li>
-<li>git add .</li>
-<li>git commit -a -m 'your advice'</li>
-<li>git pull origin branch</li>
-<li>git push origin branch</li>
+<li>GIT basic</li>
+<li>MVC basic</li>
+<li>PM2 basic</li>
+<li>Loopback basic</li>
 <li>...</li>
 </ol>
 
