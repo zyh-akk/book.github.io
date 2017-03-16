@@ -7,7 +7,6 @@
 <li>MVC basic</li>
 <li>PM2 basic</li>
 <li>Loopback basic</li>
-<li>...</li>
 </ol>
 
 
