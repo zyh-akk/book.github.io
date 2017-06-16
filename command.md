@@ -22,6 +22,7 @@
 <h6 style="margin: 0">grrm - git remote remove</h6>
 <h6 style="margin: 0">gsetr - git remote set-url</h6>
 <h6 style="margin: 0">grup - git remote update</h6>
+<h6 style="margin: 0">grup - git remote prune origin <span>删除远程不存在的本地分支</span></h6>
 <h6 style="margin: 0">grbi - git rebase -i</h6>
 <h6 style="margin: 0">grbc - git rebase --continue</h6>
 <h6 style="margin: 0">grba - git rebase --abort</h6>
